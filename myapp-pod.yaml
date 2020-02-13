@@ -12,5 +12,5 @@ spec:
     image: redis
   - name: memcached
     image: memcached
-  - name: consule
-    image: consule  
+  - name: consul
+    image: consul  
